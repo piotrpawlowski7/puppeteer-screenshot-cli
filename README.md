@@ -17,6 +17,7 @@ Install globally:
 ``
 npm install -g
 ``  
+## How to use it?
   
 To use in command line:
 ``
