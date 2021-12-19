@@ -1,0 +1,25 @@
+{
+  "name": "screen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./bin/index.js",
+  "bin": {
+    "screen": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piotrpawlowski7/-puppeteer-screenshot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piotrpawlowski7/-puppeteer-screenshot/issues"
+  },
+  "homepage": "https://github.com/piotrpawlowski7/-puppeteer-screenshot#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
