@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/piotrpawlowski7/-puppeteer-screenshot#readme",
   "dependencies": {
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.5",
+    "puppeteer": "^13.0.0"
   }
 }

@@ -1,0 +1,20 @@
+# Ignoring node_modules
+node_modules/
+
+# Ignoring logs
+logs
+*.log
+
+# Ignoring OS files
+.DS_Store
+
+# Ignoring environment variables
+.env
+
+# Ignoring temporary files
+*.tmp
+*.swp
+
+# Ignoring distribution directories
+dist/
+build/
